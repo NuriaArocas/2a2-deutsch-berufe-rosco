@@ -1,0 +1,26 @@
+BERUFE-WORTKREIS — Versión web básica
+
+1. Descomprime todo el ZIP en una carpeta.
+2. Abre index.html con Chrome, Firefox, Edge o Safari.
+
+No necesita instalaciones, servidor, React, conexión a internet ni compilación.
+Conserva los archivos y carpetas juntos. También puedes subirlos a un alojamiento web estático.
+
+CONTENIDO
+index.html — página
+styles.css — diseño
+app.js — juego, temporizador, sonido y marcador
+berufe.js — preguntas y comprobación de respuestas
+images/favicon.ico — icono original
+fonts/ — fuentes locales y sus licencias, si están incluidas
+
+FUNCIONES
+26 letras, preguntas aleatorias, respuestas masculinas y femeninas, artículos opcionales,
+Pasapalabra, tiempos de 180/150/120 segundos, sonido opcional, resultados y Top 10.
+El marcador se guarda en este navegador; no se comparte entre dispositivos.
+Si el navegador bloquea el almacenamiento local, se conserva solo mientras la página siga abierta.
+Borrar los datos del navegador elimina el marcador. Las partidas de la app publicada no
+se transfieren automáticamente al archivo descargado.
+
+Las ilustraciones de los controles son emojis del sistema y el círculo de letras se dibuja
+con CSS. No dependen de imágenes externas.
